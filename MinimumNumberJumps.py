@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1/?page=1&category[]=Dynamic%20Programming&sortBy=submissions
+
 #User function Template for python3
 class Solution:
     def minJumps(self, arr, n):
