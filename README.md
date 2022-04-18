@@ -13,7 +13,7 @@
 Esse projeto tem como objetivo mostrar a solução de problemas de programação competitiva utilizando a estratégia de programação dinâmica. Para isso resolvemos 4 problemas pertencentes a 2 juízes onlines diferentes:
 
 - SPOJ
-- CodeForces
+- GeeksForGeeks
 
 O funcionamento do projeto se dá com a execução de cada arquivo, passando como valores de entrada os exemplos de cada problema, que se encontra nos links que há dentro de cada arquivo.py neste repositório.
 
